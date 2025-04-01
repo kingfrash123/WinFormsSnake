@@ -6,8 +6,8 @@ A C# project that recrates the Snake game using windows forms
 
 
 The following features are implemented:
-- [x] The Snake speeds up as the game progresses
-- [x] The game has multiple stages
+- The Snake speeds up as the game progresses
+- The game has multiple stages
 
 
 ## License
